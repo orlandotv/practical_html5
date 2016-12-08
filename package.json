@@ -1,0 +1,18 @@
+{
+  "name": "practical_html5",
+  "version": "1.0.0",
+  "description": "learning hmtl5 features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "learning",
+    "html5"
+  ],
+  "author": "orlandotv",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
